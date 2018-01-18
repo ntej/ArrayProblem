@@ -9,7 +9,6 @@ import java.util.Random;
  * [2] There are islands that do not touch any border
  * Flip the 1's of islands[2] to 0
  * Keep the 1's of islands[1]
- * <p>
  * NOTE:TO PRINT THE MATRIX PROPERLY ON THE STANDARD SCREEN TERMIANLS, YOU CAN REDUCE THE @Constant rowSize @Constant coloumnSize
  */
 
